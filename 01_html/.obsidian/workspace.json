@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/04. basic formatting tags.md",
+                "file": "html/03. Body, br ,heading, hr tag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. basic formatting tags"
+              "title": "03. Body, br ,heading, hr tag"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "24e9b4bf6775725c",
   "lastOpenFiles": [
+    "html/04. basic formatting tags.md",
     "html/03. Body, br ,heading, hr tag.md",
     "html/02. Html Format Explaining.md",
     "html/01. introduction of html.md",
-    "html/04. basic formatting tags.md",
     "Pasted image 20260103123355.png",
     "Pasted image 20260103123018.png",
     "html"
