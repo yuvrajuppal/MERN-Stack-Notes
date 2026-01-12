@@ -1,3 +1,14 @@
+
+```js
+// predefined values in math
+Math.PI
+Math.E
+// and many more
+// just do Math.  in vs code
+```
+
+
+
 ```js
 let a= 10
 let b=2

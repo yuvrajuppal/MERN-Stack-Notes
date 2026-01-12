@@ -34,4 +34,10 @@ b=20
 
 result = (a+b)**2
 
+let len = 10
+let bth = 20
+let para = 2 * (len+bth)
+console.log(para);
+
 ```
+
