@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "2cb2c1cee5fc223e",
+    "id": "504563e0e318be31",
     "type": "split",
     "children": [
       {
-        "id": "969197450952c80e",
+        "id": "c76fdcdac48351f5",
         "type": "tabs",
         "children": [
           {
-            "id": "24e9b4bf6775725c",
+            "id": "00f04d0625136797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/02. Html Format Explaining.md",
-                "mode": "preview",
+                "file": "react/06. components in react.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Html Format Explaining"
+              "title": "06. components in react"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2a332fcac8d23601",
+    "id": "8fe933391b6412c3",
     "type": "split",
     "children": [
       {
-        "id": "30ca15aab2487856",
+        "id": "f044b31d22fb88cd",
         "type": "tabs",
         "children": [
           {
-            "id": "eb0fb701c6c6af8b",
+            "id": "5c0722bdaafb42d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "41338dfff237b781",
+            "id": "1135cdb126c1348a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f5770db4466da86c",
+            "id": "c7680024635fa5b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "1159a3b0c6ac368c",
+    "id": "9e9f17071211b15f",
     "type": "split",
     "children": [
       {
-        "id": "ac5ecd8a5d19b9c0",
+        "id": "41fe8b8c0ccdbfc4",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4943227ad33099",
+            "id": "9446348edfdd7a7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/02. Html Format Explaining.md",
+                "file": "react/00 what is react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02. Html Format Explaining"
+              "title": "Backlinks for 00 what is react"
             }
           },
           {
-            "id": "d8680e9279802af8",
+            "id": "1080b4ceb3d62864",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/02. Html Format Explaining.md",
+                "file": "react/00 what is react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02. Html Format Explaining"
+              "title": "Outgoing links from 00 what is react"
             }
           },
           {
-            "id": "1aafca6228951c8f",
+            "id": "4953df6f676952bf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "22dab2c47002eccc",
+            "id": "8c5a15ef43956f02",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "d5c943b3e5e34783",
+            "id": "a561485391efe56e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/02. Html Format Explaining.md",
+                "file": "react/00 what is react.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Html Format Explaining"
+              "title": "Outline of 00 what is react"
             }
           }
         ]
@@ -183,25 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "24e9b4bf6775725c",
+  "active": "00f04d0625136797",
   "lastOpenFiles": [
-    "html/01. introduction of html.md",
-    "html/15. form inputs in html.md",
-    "html/14. audio and video tag.md",
-    "html/11 list and nested list.md",
-    "html/09. object,progress,marquee tag.md",
-    "html/08. Detail, Nav Tag.md",
-    "html/04.3 nested formating.md",
-    "html/03. Body, br ,heading, hr tag.md",
-    "html/06. pre,blockquote,abbr.md",
-    "html/12. iframe tag.md",
-    "html/10. table tag.md",
-    "html/07.  div p bi-directional tag.md",
-    "html/05. Image Tag, html Comments.md",
-    "html/04. basic formatting tags.md",
-    "html/02. Html Format Explaining.md",
-    "Pasted image 20260103123355.png",
-    "Pasted image 20260103123018.png",
-    "html"
+    "react/05. tailwind installation.md",
+    "react/06. components in react.md",
+    "react/04. reset project.md",
+    "react/01 installation.md",
+    "react/02. vs code plugins for react.md",
+    "Pasted image 20260114113255.png",
+    "Pasted image 20260114113223.png",
+    "react/00 what is react.md",
+    "Welcome.md",
+    "react"
   ]
 }

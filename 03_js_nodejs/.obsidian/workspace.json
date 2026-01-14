@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/05 arthmetic operators in js.md",
+                "file": "jsdom/06. make a Random number generator.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 arthmetic operators in js"
+              "title": "06. make a Random number generator"
             }
           }
         ]
@@ -183,25 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d371eada2707e120",
+  "active": "5e99ecafe9f52b9b",
   "lastOpenFiles": [
-    "basic js/06 Math in js.md",
+    "jsdom/05. make a counter app now.md",
+    "jsdom/07. make a illegible for vote.md",
+    "jsdom/06. make a Random number generator.md",
+    "jsdom/03. userinput in js.md",
     "jsdom/02. get element by id.md",
     "jsdom/01. window Alert.md",
     "jsdom/00. load js in html.md",
-    "jsdom/03. userinput in js.md",
-    "jsdom/05. make a counter app now.md",
-    "jsdom/06. make a Ramdom number generator.md",
-    "jsdom/07. make a illegible for vote.md",
     "basic js/09 conditional statements.md",
     "basic js/08. conditional operators.md",
-    "jsdom/08 checked property.md",
     "basic js/07 random in js.md",
+    "basic js/06 Math in js.md",
     "basic js/05 arthmetic operators in js.md",
     "basic js/04. typeCasting in js.md",
     "basic js/03 Variable and let var const in js.md",
     "basic js/02. data types in js.md",
     "basic js/01. Printing in js.md",
+    "jsdom/08 checked property.md",
     "jsdom",
     "Welcome.md",
     "basic js"
