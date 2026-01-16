@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "df56d4fa0398374d",
+    "id": "5a4d0e60ccbf07cb",
     "type": "split",
     "children": [
       {
-        "id": "83ef923207234e6e",
+        "id": "8e486ef290aa5638",
         "type": "tabs",
         "children": [
           {
-            "id": "5e99ecafe9f52b9b",
+            "id": "fd12471813fed465",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jsdom/05.  Q1 make a counter app now.md",
+                "file": "00 installation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.  Q1 make a counter app now"
+              "title": "00 installation"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a2d3d7a5f55b6c38",
+    "id": "5dc06dee22b1f33a",
     "type": "split",
     "children": [
       {
-        "id": "1fe56d8b32357094",
+        "id": "a63c1311ee597ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "d371eada2707e120",
+            "id": "deae77899d5cc0e8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "1ca111211881c90d",
+            "id": "46862c23d75f409a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9e0c1a6fb87f4d33",
+            "id": "0ed214db30df2982",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "1545f61b90b8addd",
+    "id": "a4f0c1a5c5c31ff9",
     "type": "split",
     "children": [
       {
-        "id": "1ac8a56660aa0a9e",
+        "id": "758edb8b5882870f",
         "type": "tabs",
         "children": [
           {
-            "id": "269076ca95051a96",
+            "id": "e58c898931c53b5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basic js/03 Variable and let var const in js.md",
+                "file": "00 installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 Variable and let var const in js"
+              "title": "Backlinks for 00 installation"
             }
           },
           {
-            "id": "16720300d4f8af04",
+            "id": "7f5498bfc04fdc67",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basic js/03 Variable and let var const in js.md",
+                "file": "00 installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 Variable and let var const in js"
+              "title": "Outgoing links from 00 installation"
             }
           },
           {
-            "id": "08ff2133e825ca65",
+            "id": "85990247b0dc8179",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "b0ccd813d067bbd4",
+            "id": "91095246c6ca0cab",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "15aab78fc0513708",
+            "id": "c87a8a815ef3ac77",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic js/03 Variable and let var const in js.md",
+                "file": "00 installation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Variable and let var const in js"
+              "title": "Outline of 00 installation"
             }
           }
         ]
@@ -183,36 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e99ecafe9f52b9b",
+  "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "jsdom/03. userinput in js.md",
-    "jsdom/02. get element by id.md",
-    "jsdom/01. window Alert.md",
-    "jsdom/00. load js in html.md",
-    "jsdom/09. Q3 bar entry webpage.md",
-    "basic js/20 what are arguments and patemeters in js.md",
-    "basic js/19 function declaration in js.md",
-    "basic js/06 Math in js.md",
-    "jsdom/06. make a Random number generator.md",
-    "jsdom/05.  Q1 make a counter app now.md",
-    "jsdom/07. make a illegible for vote.md",
-    "basic js/18. for in loop.md",
-    "basic js/17. continue break.md",
-    "basic js/16. for loop in js.md",
-    "basic js/15. while and do while loop.md",
-    "basic js/03 Variable and let var const in js.md",
-    "basic js/14. Strict equality operator.md",
-    "basic js/Untitled",
-    "basic js/13.  logical operator.md",
-    "jsdom/08 checked property.md",
-    "basic js/12. chaining method in js.md",
-    "Untitled.md",
-    "basic js/11. string slicing in js.md",
-    "basic js/10. string methods.md",
-    "basic js/09 conditional statements.md",
-    "basic js/05 arthmetic operators in js.md",
-    "basic js/07 random in js.md",
-    "jsdom",
-    "basic js"
+    "Welcome.md",
+    "00 installation.md",
+    "swager ui"
   ]
 }
