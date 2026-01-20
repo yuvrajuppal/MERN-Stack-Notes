@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/28. map in js.md",
+                "file": "basic js/13.  logical operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28. map in js"
+              "title": "13.  logical operator"
             }
           }
         ]
@@ -185,13 +185,19 @@
   },
   "active": "5e99ecafe9f52b9b",
   "lastOpenFiles": [
+    "basic js/12. chaining method in js.md",
+    "basic js/10. string methods.md",
+    "basic js/16. for loop in js.md",
+    "basic js/11. string slicing in js.md",
     "basic js/31. reduce.md",
-    "basic js/30. tofixed.md",
+    "basic js/13.  logical operator.md",
+    "basic js/19 function declaration in js.md",
+    "basic js/18. for in loop.md",
+    "basic js/17. continue break.md",
     "basic js/28. map in js.md",
+    "basic js/30. tofixed.md",
     "basic js/06 Math in js.md",
     "basic js/05 arthmetic operators in js.md",
-    "basic js/10. string methods.md",
-    "basic js/11. string slicing in js.md",
     "basic js/27. filter in js.md",
     "basic js/27. forEach.md",
     "basic js/26. callback function.md",
@@ -200,17 +206,11 @@
     "jsdom/10. make a dice roller game.md",
     "basic js/25. rest parameter.md",
     "basic js/24. spread operator.md",
-    "basic js/18. for in loop.md",
-    "basic js/16. for loop in js.md",
     "basic js/15. while and do while loop.md",
     "basic js/22. scope in js.md",
     "basic js/21 return in function.md",
     "basic js/03 Variable,rules of variables and let var const in js.md",
     "basic js/20 what are arguments and patemeters in js.md",
-    "basic js/19 function declaration in js.md",
-    "basic js/17. continue break.md",
-    "jsdom/05.  Q1 make a counter app now.md",
-    "jsdom/03. userinput in js.md",
     "basic js/Untitled",
     "jsdom",
     "basic js"

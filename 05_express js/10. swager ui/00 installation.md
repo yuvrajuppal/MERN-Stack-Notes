@@ -3,7 +3,7 @@ npm i swagger-autogen swagger-ui-express
 ```
 
 
-server.js
+swagger.js
 ```js
 import swaggerAutogen from 'swagger-autogen'
 
