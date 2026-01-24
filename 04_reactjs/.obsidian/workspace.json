@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/07. lets create a Card Component.md",
+                "file": "react/16. Pre in useState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. lets create a Card Component"
+              "title": "16. Pre in useState"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "00f04d0625136797",
   "lastOpenFiles": [
+    "react/15. color picker app.md",
+    "react/16. Pre in useState.md",
+    "react/14. on change event.md",
+    "react/13. make a counter app via usestate.md",
+    "react/12. useState.md",
+    "react/11. on click event in react.md",
+    "react/09. props in react.md",
+    "react/10. conditional rendering.md",
     "react/08. CSS addition in react.md",
     "react/07. lets create a Card Component.md",
     "react/06. components in react.md",

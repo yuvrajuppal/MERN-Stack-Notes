@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. websoket.io/what is soketd.md",
-                "mode": "source",
+                "file": "10. file handleing/01. write a file.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is soketd"
+              "title": "01. write a file"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "Pasted image 20260120143206.png",
-    "11. websoket.io/00 installtion.md",
-    "11. websoket.io/what is soketd.md",
-    "10. swager ui/00 installation.md",
-    "10. file handleing/01. write a file.md",
     "10. file handleing/03. create a folder.md",
     "10. file handleing/02. read a file.md",
+    "10. file handleing/01. write a file.md",
+    "11. websoket.io/what is soketd.md",
+    "11. websoket.io/00 installtion.md",
+    "Pasted image 20260120143206.png",
+    "10. swager ui/00 installation.md",
     "10. file handleing",
     "11. websoket.io",
     "Welcome.md",

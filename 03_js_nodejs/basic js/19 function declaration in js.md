@@ -5,7 +5,9 @@ function sayHello() {
   console.log("Hello World");
 }
 
-const greet = () => console.log("Hi!");
+const greet = () => {
+console.log("Hi!");
+}
 
 
 const sayWow = function() {
