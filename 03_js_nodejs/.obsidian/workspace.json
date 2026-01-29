@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/23.  list in js.md",
-                "mode": "source",
+                "file": "basic js/18. for in loop.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.  list in js"
+              "title": "18. for in loop"
             }
           }
         ]
@@ -185,18 +185,18 @@
   },
   "active": "5e99ecafe9f52b9b",
   "lastOpenFiles": [
+    "basic js/17. continue break.md",
     "basic js/18. for in loop.md",
+    "basic js/32. if in statement.md",
+    "basic js/23.  list in js.md",
     "basic js/22. scope in js.md",
     "basic js/25. rest parameter.md",
-    "basic js/32. if in statement.md",
     "basic js/31. reduce.md",
     "basic js/Untitled",
-    "basic js/17. continue break.md",
     "basic js/16. for loop in js.md",
     "basic js/27. filter in js.md",
     "basic js/26. callback function.md",
     "basic js/24. spread operator.md",
-    "basic js/23.  list in js.md",
     "basic js/30. tofixed.md",
     "jsdom/11. make a ramdom password generator.md",
     "jsdom/01. window Alert.md",
