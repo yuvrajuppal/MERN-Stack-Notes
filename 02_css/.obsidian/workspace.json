@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/06. CSS attribute before and after.md",
+                "file": "css/20. Media Query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06. CSS attribute before and after"
+              "title": "20. Media Query"
             }
           }
         ]
@@ -185,12 +185,26 @@
   },
   "active": "d32871766bda0a4c",
   "lastOpenFiles": [
-    "css/05. padding in css.md",
-    "css/06. CSS attribute before and after.md",
+    "css/19. Transform in css.md",
+    "css/18. animation in css.md",
+    "css/17. user fonts in css.md",
+    "css/16. z-index in css.md",
+    "css/15. positions in css.md",
+    "css/05. Border Css.md",
+    "css/06. padding in css.md",
     "css/04. Basic CSS Properties.md",
     "css/03. Types of selectors.md",
     "css/02. Types of Css association.md",
     "css/01. What is css ?.md",
+    "css/08. input box styleing.md",
+    "css/13. cursor in css.md",
+    "css/20. Media Query.md",
+    "css/14. Gradient and Radial Gradients in css.md",
+    "css/12. Shadow in css.md",
+    "css/11. hover,transition.md",
+    "css/10. Grid in css.md",
+    "css/09. display, row and col.md",
+    "css/07. margin in css.md",
     "css"
   ]
 }
