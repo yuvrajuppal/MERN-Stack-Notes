@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "108d57e2f63a291a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be3e379815f02d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32871766bda0a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "css/06. CSS attribute before and after.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. CSS attribute before and after"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40ad672a09534226",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9756ccab50d7278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a91b6f08ac7a9548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "63123bc0cae602f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aff2ebdc69be6782",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e7f4d3e1d7507ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4c464f901de89d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a79e7fcf745f610",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "css/06. CSS attribute before and after.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 06. CSS attribute before and after"
+            }
+          },
+          {
+            "id": "53563fbcce560e22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "css/06. CSS attribute before and after.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 06. CSS attribute before and after"
+            }
+          },
+          {
+            "id": "47f7bd2ae8f8b94c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17a2af9af890aa5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "28ff5d18aadab336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "css/06. CSS attribute before and after.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 06. CSS attribute before and after"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d32871766bda0a4c",
+  "lastOpenFiles": [
+    "css/05. padding in css.md",
+    "css/06. CSS attribute before and after.md",
+    "css/04. Basic CSS Properties.md",
+    "css/03. Types of selectors.md",
+    "css/02. Types of Css association.md",
+    "css/01. What is css ?.md",
+    "css"
+  ]
+}
