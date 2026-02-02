@@ -11,10 +11,14 @@
             "id": "bb8d1f97e16ccb0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "basic js/43. error handling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "43. error handling"
             }
           }
         ]
