@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jsdom/make a weather app.md",
+                "file": "jsdom/16. make a weather app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "make a weather app"
+              "title": "16. make a weather app"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "bb8d1f97e16ccb0a",
   "lastOpenFiles": [
     "basic js/39. closure in js.md",
-    "jsdom/make a weather app.md",
+    "jsdom/16. make a weather app.md",
     "basic js/45. async await and fetch.md",
     "basic js/44. JSON.md",
     "basic js/43. error handling.md",
