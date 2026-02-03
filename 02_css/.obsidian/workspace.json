@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/07. margin in css.md",
+                "file": "css/10. Grid in css.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. margin in css"
+              "title": "10. Grid in css"
             }
           }
         ]
@@ -185,7 +185,14 @@
   },
   "active": "d32871766bda0a4c",
   "lastOpenFiles": [
-    "css/09. display, row and col.md",
+    "css/09. display, Flex row and col.md",
+    "css/10. Grid in css.md",
+    "css/08. input box styleing.md",
+    "css/07. margin in css.md",
+    "css/05. Border in Css.md",
+    "css/06. padding in css.md",
+    "css/05.1. border-radius.md",
+    "css/04. Basic CSS Properties.md",
     "css/11. hover,transition.md",
     "css/14. Gradient and Radial Gradients in css.md",
     "css/15. positions in css.md",
@@ -198,13 +205,7 @@
     "css/13. cursor in css.md",
     "css/16. z-index in css.md",
     "css/17. user fonts in css.md",
-    "css/05. Border Css.md",
-    "css/06. padding in css.md",
-    "css/04. Basic CSS Properties.md",
     "css/03. Types of selectors.md",
-    "css/08. input box styleing.md",
-    "css/10. Grid in css.md",
-    "css/07. margin in css.md",
     "css"
   ]
 }
