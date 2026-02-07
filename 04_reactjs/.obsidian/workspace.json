@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/19 Capure Width and Height in react.md",
-                "mode": "preview",
+                "file": "02. React router dom/02. Use Navigate.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Capure Width and Height in react"
+              "title": "02. Use Navigate"
             }
           }
         ]
@@ -185,28 +185,36 @@
   },
   "active": "00f04d0625136797",
   "lastOpenFiles": [
-    "react/18 useeffect.md",
-    "react/17. make a todo application.md",
-    "react/19 Capure Width and Height in react.md",
-    "react/12. useState.md",
-    "react/16. Pre in useState.md",
-    "react/14. on change event.md",
-    "react/01 installation.md",
-    "react/00 what is react.md",
-    "react/15. color picker app.md",
-    "react/13. make a counter app via usestate.md",
+    "03. addons/01. copy text.md",
+    "04. Gsap",
+    "02. React router dom/02. Use Navigate.md",
+    "02. React router dom/01. react router dom Installation.md",
+    "01. react/25 Axios in react js.md",
+    "01. react/24. Local Storage.md",
+    "01. react/23. create a todo list.md",
+    "01. react/21. use ref hook.md",
+    "01. react/19 Capure Width and Height in react.md",
+    "01. react/18 useeffect hook.md",
+    "01. react/17. make a todo application.md",
+    "01. react/16. Pre in useState hook.md",
+    "01. react/15. color picker app.md",
+    "01. react/14. on change event.md",
+    "01. react/10. conditional rendering.md",
+    "03. addons",
+    "01. react/09. props in react.md",
+    "01. react/08. CSS addition in react.md",
+    "01. react/07. lets create a Card Component.md",
+    "01. react/06. components in react.md",
+    "02. React router dom",
+    "react/Untitled.md",
+    "01. react/22. create a Stop Watch.md",
+    "01. react/20. Use Context hook.md",
+    "01. react/12. useState hook.md",
+    "01. react/01 installation.md",
+    "01. react/00 what is react.md",
+    "01. react/13. make a counter app via usestate.md",
     "Pasted image 20260114113223.png",
-    "react/11. on click event in react.md",
-    "react/10. conditional rendering.md",
-    "react/09. props in react.md",
-    "react/08. CSS addition in react.md",
-    "react/07. lets create a Card Component.md",
-    "react/06. components in react.md",
-    "react/05. tailwind installation.md",
-    "react/04. reset project.md",
-    "react/02. vs code plugins for react.md",
     "Pasted image 20260114113255.png",
-    "Welcome.md",
-    "react"
+    "01. react"
   ]
 }
