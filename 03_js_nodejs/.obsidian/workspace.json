@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/42. Asynchronous code.md",
+                "file": "basic js/46. Nullish coalescing operator.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42. Asynchronous code"
+              "title": "46. Nullish coalescing operator"
             }
           }
         ]
@@ -183,23 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "d371eada2707e120",
+  "active": "bb8d1f97e16ccb0a",
   "lastOpenFiles": [
-    "basic js/41. module in js.md",
-    "basic js/40. setTimeout in js.md",
-    "basic js/39. closure in js.md",
-    "basic js/38. date.md",
     "basic js/45. async await and fetch.md",
-    "basic js/44. JSON.md",
+    "basic js/46. Nullish coalescing operator.md",
+    "basic js/47. iife function.md",
     "basic js/43. error handling.md",
     "basic js/42. Asynchronous code.md",
+    "basic js/44. JSON.md",
+    "basic js/41. module in js.md",
+    "basic js/39. closure in js.md",
+    "basic js/40. setTimeout in js.md",
+    "basic js/38. date.md",
     "basic js/37 sort in js.md",
     "basic js/36. DeStructuring in js.md",
     "basic js/34. this in object js.md",
     "basic js/35. spread operator in object js.md",
     "basic js/33. Object in js.md",
-    "basic js/46. Nullish coalescing operator.md",
-    "basic js/47. iife function.md",
     "jsdom/16. make a weather app.md",
     "jsdom/15. key events.md",
     "jsdom/14. mouse Event in js.md",

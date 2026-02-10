@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. react/20. Use Context hook.md",
-                "mode": "source",
+                "file": "01. react/24. create a todo list.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Use Context hook"
+              "title": "24. create a todo list"
             }
           }
         ]
@@ -185,20 +185,21 @@
   },
   "active": "00f04d0625136797",
   "lastOpenFiles": [
-    "01. react/08. CSS addition in react.md",
+    "01. react/25 Axios in react js.md",
+    "01. react/26. React Icons.md",
+    "01. react/21. use ref hook.md",
+    "02. React router dom/01. react router dom Installation.md",
+    "04. addons/04. Daisy ui lib.md",
+    "04. addons/03. lucide ui lib.md",
     "01. react/20. Use Context hook.md",
+    "01. react/24. create a todo list.md",
     "01. react/22. create a Stop Watch.md",
+    "01. react/08. CSS addition in react.md",
     "01. react/23. Local Storage.md",
     "02. React router dom/02. Use Navigate.md",
-    "04. addons/03. lucide.md",
     "04. addons/01. copy text.md",
     "04. addons/00 Deploy to c pannel.md",
-    "02. React router dom/01. react router dom Installation.md",
-    "01. react/26. React Icons.md",
-    "01. react/25 Axios in react js.md",
     "03. Redux",
-    "01. react/24. create a todo list.md",
-    "01. react/21. use ref hook.md",
     "01. react/19 Capure Width and Height in react.md",
     "01. react/12. useState hook.md",
     "01. react/18 useeffect hook.md",
