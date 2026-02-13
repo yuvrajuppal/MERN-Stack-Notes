@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. websoket/01 working of ws.md",
-                "mode": "source",
+                "file": "01. express js/09. Set Cookie.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 working of ws"
+              "title": "09. Set Cookie"
             }
           }
         ]
@@ -185,9 +185,32 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "11. websoket/02. installation.md",
+    "01. express js/08. jwt token.md",
+    "01. express js/07. Bcrypt.md",
+    "01. express js/05. get post api.md",
+    "01. express js/06. update and delete api.md",
+    "01. express js/09. Set Cookie.md",
+    "02. express with sql/01. install sql database in express js.md",
+    "01. express js/02 dotenv and server.js setup.md",
+    "01. express js/04 setup routes and get api.md",
+    "02. express with sql/02. insert value to table.md",
+    "99 addons/02. uiid in express js.md",
+    "10. swager ui/00 installation.md",
+    "99 addons/01. colors in cmd.md",
+    "10. file handleing/01. write a file.md",
+    "10. file handleing/02. read a file.md",
+    "01. express js/03. cors and cookie setup.md",
+    "01. express js/01 installation express.md",
+    "10. file handleing/03. create a folder.md",
+    "12. node mailer",
+    "99 addons",
+    "02. express with sql/03. read.md",
+    "01. express js/05 data base installtion  sql.md",
+    "02. express with sql",
     "11. websoket/what is soketd.md",
     "11. websoket/01 working of ws.md",
+    "11. websoket/02. installation.md",
+    "01. express js",
     "Screenshot 2026-02-03 at 1.58.36 PM.png",
     "Screenshot 2026-02-03 at 1.54.23 PM.png",
     "Screenshot 2026-02-03 at 1.51.55 PM.png",
@@ -197,10 +220,6 @@
     "Screenshot 2026-02-03 at 1.43.14 PM.png",
     "Screenshot 2026-02-03 at 1.41.39 PM.png",
     "Pasted image 20260120143206.png",
-    "10. swager ui/00 installation.md",
-    "10. file handleing/01. write a file.md",
-    "10. file handleing/03. create a folder.md",
-    "10. file handleing/02. read a file.md",
     "10. file handleing",
     "11. websoket",
     "Welcome.md",
