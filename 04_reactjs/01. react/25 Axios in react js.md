@@ -16,7 +16,7 @@ function GetUsers() {
     const fetchUsers = async () => {
       try {
         setLoading(true);
-        const response = await axios.get('https://jsonplaceholder.typicode.com/users');
+        const response = await axios.get('https://randomuser.me/api/0.8/?results=1');
         setUsers(response.data);
       } catch (err) {
         setError('Failed to fetch users');
