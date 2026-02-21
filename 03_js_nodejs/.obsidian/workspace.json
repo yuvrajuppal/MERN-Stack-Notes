@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/33. Object in js.md",
+                "file": "basic js/44. JSON.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33. Object in js"
+              "title": "44. JSON"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "window",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,9 +185,10 @@
   },
   "active": "bb8d1f97e16ccb0a",
   "lastOpenFiles": [
+    "jsdom/01. window Alert.md",
+    "basic js/33. Object in js.md",
     "basic js/35. spread operator in object js.md",
     "basic js/34. this in object js.md",
-    "basic js/33. Object in js.md",
     "basic js/18. for in loop.md",
     "basic js/37 sort in js.md",
     "basic js/36. DeStructuring in js.md",
@@ -207,7 +208,6 @@
     "jsdom/12. querySelector and querySelectorAll.md",
     "jsdom/10. make a dice roller game.md",
     "jsdom/11. make a ramdom password generator.md",
-    "jsdom/01. window Alert.md",
     "jsdom/00. load js in html.md",
     "jsdom/13. Style Via js.md",
     "jsdom/09. Q3 bar entry webpage.md",
