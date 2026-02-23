@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5a4d0e60ccbf07cb",
+    "id": "1031af3f8ebd3da2",
     "type": "split",
     "children": [
       {
-        "id": "8e486ef290aa5638",
+        "id": "03606ae120c2ba7c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd12471813fed465",
+            "id": "0b975659541979f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. express js/09. Set Cookie.md",
-                "mode": "preview",
+                "file": "05_express js/11. websoket/what is soketd.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09. Set Cookie"
+              "title": "what is soketd"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5dc06dee22b1f33a",
+    "id": "8af434b157b87597",
     "type": "split",
     "children": [
       {
-        "id": "a63c1311ee597ae9",
+        "id": "428e68ab1f877444",
         "type": "tabs",
         "children": [
           {
-            "id": "deae77899d5cc0e8",
+            "id": "5cc493495f0dd309",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "46862c23d75f409a",
+            "id": "08a1fe4bc9957487",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0ed214db30df2982",
+            "id": "67930d3411e02da5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a4f0c1a5c5c31ff9",
+    "id": "e16a2179b4ec4492",
     "type": "split",
     "children": [
       {
-        "id": "758edb8b5882870f",
+        "id": "16f0a9534821b1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e58c898931c53b5f",
+            "id": "28a002cc2d25851f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 installation.md",
+                "file": "05_express js/11. websoket/what is soketd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 installation"
+              "title": "Backlinks for what is soketd"
             }
           },
           {
-            "id": "7f5498bfc04fdc67",
+            "id": "afa2bd0eee700eb9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 installation.md",
+                "file": "05_express js/11. websoket/what is soketd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00 installation"
+              "title": "Outgoing links from what is soketd"
             }
           },
           {
-            "id": "85990247b0dc8179",
+            "id": "5aa6007ac4dda850",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "91095246c6ca0cab",
+            "id": "40e57e89ade47fc7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "c87a8a815ef3ac77",
+            "id": "d82af30fb73e1d86",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 installation.md",
+                "file": "05_express js/11. websoket/what is soketd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 installation"
+              "title": "Outline of what is soketd"
             }
           }
         ]
@@ -183,46 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd12471813fed465",
+  "active": "0b975659541979f0",
   "lastOpenFiles": [
-    "01. express js/08. jwt token.md",
-    "01. express js/09. Set Cookie.md",
-    "01. express js/03. cors and cookie setup.md",
-    "01. express js/07. Bcrypt.md",
-    "01. express js/06. update and delete api.md",
-    "01. express js/05. get post api.md",
-    "01. express js/04 setup routes and get api.md",
-    "10. swager ui/00 installation.md",
-    "01. express js/02 dotenv and server.js setup.md",
-    "02. express with sql/02. insert value to table.md",
-    "99 addons/02. uiid in express js.md",
-    "99 addons/01. colors in cmd.md",
-    "02. express with sql/01. install sql database in express js.md",
-    "01. express js/01 installation express.md",
-    "10. file handleing/01. write a file.md",
-    "10. file handleing/02. read a file.md",
-    "10. file handleing/03. create a folder.md",
-    "12. node mailer",
-    "99 addons",
-    "02. express with sql/03. read.md",
-    "01. express js/05 data base installtion  sql.md",
-    "02. express with sql",
-    "11. websoket/what is soketd.md",
-    "11. websoket/01 working of ws.md",
-    "11. websoket/02. installation.md",
-    "01. express js",
-    "Screenshot 2026-02-03 at 1.58.36 PM.png",
-    "Screenshot 2026-02-03 at 1.54.23 PM.png",
-    "Screenshot 2026-02-03 at 1.51.55 PM.png",
-    "Screenshot 2026-02-03 at 1.51.08 PM.png",
-    "Screenshot 2026-02-03 at 1.46.47 PM.png",
-    "Screenshot 2026-02-03 at 1.44.47 PM.png",
-    "Screenshot 2026-02-03 at 1.43.14 PM.png",
-    "Screenshot 2026-02-03 at 1.41.39 PM.png",
-    "Pasted image 20260120143206.png",
-    "10. file handleing",
-    "11. websoket",
-    "Welcome.md",
-    "10. swager ui"
+    "05_express js/11. websoket/02. installation.md",
+    "05_express js/11. websoket/01 working of ws.md",
+    "05_express js/Pasted image 20260120143206.png",
+    "05_express js/01. express js/09. Set Cookie.md",
+    "05_express js/01. express js/08. jwt token.md",
+    "05_express js/01. express js/07. Bcrypt.md",
+    "05_express js/01. express js/01 installation express.md",
+    "05_express js/01. express js/02 dotenv and server.js setup.md"
   ]
 }

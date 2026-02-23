@@ -21,26 +21,50 @@ console.log('done he');
 ```
 
 swagger.js
+
 ```js
-import swaggerAutogen from 'swagger-autogen'
-import { formatSwaggerJson } from './swaggerjsonformater.js'
+import fs from 'fs/promises';
 
-const doc = {
-openapi: '3.0.0', // Force 3.0 only
-info: { title: 'Nexcore API', version: '1.0.0' },
-servers: [{ url: 'http://localhost:3000' }]
-}
+import chalk from 'chalk';
+
+export const formatSwaggerJson = async () => {
+
+try {
+
+const swaggerJson = await fs.readFile('./swagger-output.json', 'utf-8');
+
+const data = JSON.parse(swaggerJson);
+
+Object.keys(data.paths).forEach((route) => {
+
+let tempdata = route
+
   
-const outputFile = './swagger-output.json'
-const endpointsFiles = ['./app.js'] // Include app.js for full route tree with prefix
 
+let index = Object.keys(data.paths[route])[0]
 
-let result = await swaggerAutogen({ openapi: '3.0.0' })(outputFile, endpointsFiles, doc)
-console.log('Pure OpenAPI 3.0 generated!')
-if (result.success) {
-formatSwaggerJson();
+  
+
+data.paths[route][index]["tags"] = [tempdata.slice(1, tempdata.slice(1).indexOf('/') + 1)]
+
+})
+
+await fs.writeFile("./swagger-output.json", JSON.stringify(data, null, 2), 'utf8')
+
+console.log(chalk.yellow('Swagger json formatted'));
+
+} catch (err) {
+
+console.log('error came');
+
+console.log(err.message);
+
 }
+
+};
 ```
+
+
 
 
 app.js
