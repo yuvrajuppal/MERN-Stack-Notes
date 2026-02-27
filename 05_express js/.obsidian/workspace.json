@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. express js/09. Set Cookie.md",
+                "file": "03. EsBuild/00. installtion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09. Set Cookie"
+              "title": "00. installtion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jwt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +185,13 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "01. express js/08. jwt token.md",
+    "02. express with sql/03.md",
+    "03. EsBuild/00. installtion.md",
+    "03. EsBuild",
     "01. express js/09. Set Cookie.md",
-    "01. express js/03. cors and cookie setup.md",
     "01. express js/07. Bcrypt.md",
+    "01. express js/08. jwt token.md",
+    "01. express js/03. cors and cookie setup.md",
     "01. express js/06. update and delete api.md",
     "01. express js/05. get post api.md",
     "01. express js/04 setup routes and get api.md",
