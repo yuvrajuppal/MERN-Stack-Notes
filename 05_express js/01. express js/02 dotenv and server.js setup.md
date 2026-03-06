@@ -6,10 +6,9 @@ npm i dotenv
 server.js
 ```js
 import app from "./app.js";
-import './config/connectdb.js'
-import dotenv from 'dotenv'
+import 'dotenv/config';
 
-dotenv.config({path:'./config/config.env'});
+// now create a .env file in the root dir
 
 app.get('/',(req,res)=>{
 res.send("server Started")
