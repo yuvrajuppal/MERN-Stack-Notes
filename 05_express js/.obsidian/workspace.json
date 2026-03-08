@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 addons/03. Secret Header.md",
+                "file": "01. express js/02 dotenv and server.js setup.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Secret Header"
+              "title": "02 dotenv and server.js setup"
             }
           }
         ]
@@ -185,14 +185,15 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "11. websoket/what is soketd.md",
-    "99 addons/03. Secret Header.md",
+    "01. express js/03. cors and cookie setup.md",
     "01. express js/09. Set Cookie.md",
+    "02. express with sql/03. read.md",
+    "99 addons/03. Secret Header.md",
+    "11. websoket/what is soketd.md",
     "99 addons/02. uiid in express js.md",
     "03. EsBuild/00. installtion.md",
     "01. express js/08. jwt token.md",
     "01. express js/07. Bcrypt.md",
-    "01. express js/03. cors and cookie setup.md",
     "01. express js/02 dotenv and server.js setup.md",
     "01. express js/04 setup routes and get api.md",
     "10. swager ui/00 installation.md",
@@ -201,7 +202,6 @@
     "01. express js/01 installation express.md",
     "01. express js/06. update and delete api.md",
     "02. express with sql/02. insert value to table.md",
-    "02. express with sql/03. read.md",
     "02. express with sql/03.md",
     "03. EsBuild",
     "99 addons/01. colors in cmd.md",

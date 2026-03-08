@@ -5,10 +5,13 @@ npm i dotenv
 
 server.js
 ```js
-import app from "./app.js";
 import 'dotenv/config';
-
+// this should be at the top other wize it will not work
 // now create a .env file in the root dir
+import app from "./app.js";
+
+
+
 
 app.get('/',(req,res)=>{
 res.send("server Started")
