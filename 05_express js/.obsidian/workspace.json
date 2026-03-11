@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. express js/05. get post api.md",
+                "file": "02. express with sql/01. install sql database in express js.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. get post api"
+              "title": "01. install sql database in express js"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
+    "01. express js/05. get post api.md",
     "01. express js/06. update and delete api.md",
     "10. swager ui/00 for production scr folder.md",
     "10. swager ui/01 for non src.md",
@@ -193,7 +194,6 @@
     "99 addons/03. Secret Header.md",
     "01. express js/03. cors and cookie setup.md",
     "01. express js/04 setup routes and get api.md",
-    "01. express js/05. get post api.md",
     "01. express js/02 dotenv and server.js setup.md",
     "01. express js/01 installation express.md",
     "01. express js/00. Starter.md",

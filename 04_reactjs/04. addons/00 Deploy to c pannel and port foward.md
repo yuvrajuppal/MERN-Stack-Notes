@@ -3,6 +3,7 @@
 ```
 first name a file .htaccess
 ```
+
 ```
 RewriteEngine On
 RewriteBase /
