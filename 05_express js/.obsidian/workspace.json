@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. express with sql/01. install sql database in express js.md",
+                "file": "01. express js/10. auth Example.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. install sql database in express js"
+              "title": "10. auth Example"
             }
           }
         ]
@@ -186,11 +186,12 @@
   "active": "fd12471813fed465",
   "lastOpenFiles": [
     "01. express js/09. Set Cookie.md",
+    "01. express js/10. auth Example.md",
     "01. express js/08. jwt token.md",
+    "02. express with sql/01. install sql database in express js.md",
     "01. express js/07. Bcrypt.md",
     "02. express with sql/02. insert value to table.md",
     "Untitled.md",
-    "02. express with sql/01. install sql database in express js.md",
     "99 addons/02. uiid in express js.md",
     "10. swager ui/01 for non src.md",
     "10. swager ui/00 for production scr folder.md",
@@ -216,7 +217,6 @@
     "10. file handleing/03. create a folder.md",
     "12. node mailer",
     "99 addons",
-    "01. express js/05 data base installtion  sql.md",
     "02. express with sql",
     "01. express js",
     "Screenshot 2026-02-03 at 1.58.36 PM.png",
