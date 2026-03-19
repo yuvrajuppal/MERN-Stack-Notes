@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Redux/00. react-redux installation and use.md",
-                "mode": "preview",
+                "file": "01. react/05. tailwind installation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. react-redux installation and use"
+              "title": "05. tailwind installation"
             }
           }
         ]
@@ -185,16 +185,17 @@
   },
   "active": "1a939a936b6102d7",
   "lastOpenFiles": [
+    "01. react/01 installation.md",
+    "03. Redux/00. react-redux installation and use.md",
     "02. React router dom/01. react router dom Installation.md",
     "02. React router dom/02. Use Navigate and uselocation.md",
+    "04. addons/05. react-toastify in react js.md",
     "04. addons/07 open link in reacr.md",
     "04. addons/00 Deploy to c pannel and port foward.md",
     "04. addons/09 make pdf via react.md",
-    "04. addons/05. react-toastify in react js.md",
     "04. addons/01. copy text.md",
     "04. addons/04. Daisy ui lib.md",
     "04. addons/06. Smooth Scoll lenis.md",
-    "03. Redux/00. react-redux installation and use.md",
     "04. addons/08. untitledu better then mui lib.md",
     "04. addons/03. lucide ui lib.md",
     "01. react/16. Pre in useState hook.md",
@@ -203,7 +204,6 @@
     "01. react/19 Capure Width and Height in react.md",
     "01. react/20. Use Context hook.md",
     "01. react/00 what is react.md",
-    "01. react/01 installation.md",
     "01. react/02. vs code plugins for react.md",
     "01. react/04. reset project.md",
     "01. react/05. tailwind installation.md",

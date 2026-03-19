@@ -1,4 +1,10 @@
-app.js
+
+```
+npm i express
+```
+
+then create a app.js
+
 ```js
 import express from "express";
 const app = express();

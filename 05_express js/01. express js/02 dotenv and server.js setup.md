@@ -3,6 +3,14 @@
 npm i dotenv
 ```
 
+## then create a .env file
+![[Screenshot 2026-03-18 at 11.46.16 AM.png]]
+
+add this to the `.env` file
+```env
+SERVERPORT = 3000
+```
+
 server.js
 ```js
 import 'dotenv/config';
@@ -24,3 +32,8 @@ app.listen(ServerPort,()=>{
 console.log(`server started at ${ServerPort}`);
 });
 ```
+
+## then do `npm run dev`
+
+
+![[Screenshot 2026-03-18 at 11.47.42 AM.png]]
