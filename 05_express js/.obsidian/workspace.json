@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. express js/10. auth Example.md",
+                "file": "01. express js/08. Bcrypt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. auth Example"
+              "title": "08. Bcrypt"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uii",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,20 +185,21 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
-    "01. express js/09. Set Cookie.md",
-    "01. express js/10. auth Example.md",
-    "01. express js/08. jwt token.md",
+    "01. express js/09. jwt token.md",
+    "01. express js/11. auth Example.md",
+    "01. express js/10. Set Cookie.md",
+    "01. express js/05 setup routes and get api.md",
+    "01. express js/06. get post api.md",
+    "01. express js/07. update and delete api.md",
+    "01. express js/08. Bcrypt.md",
+    "01. express js/04. Controller and routes.md",
     "02. express with sql/01. install sql database in express js.md",
-    "01. express js/07. Bcrypt.md",
     "02. express with sql/02. insert value to table.md",
     "Untitled.md",
     "99 addons/02. uiid in express js.md",
     "10. swager ui/01 for non src.md",
     "10. swager ui/00 for production scr folder.md",
     "10. file handleing/01. write a file.md",
-    "01. express js/04 setup routes and get api.md",
-    "01. express js/05. get post api.md",
-    "01. express js/06. update and delete api.md",
     "01. express js/03. cors and cookie setup.md",
     "01. express js/02 dotenv and server.js setup.md",
     "Screenshot 2026-03-18 at 11.47.42 AM.png",
@@ -214,7 +215,6 @@
     "02. express with sql/03.md",
     "03. EsBuild",
     "10. file handleing/02. read a file.md",
-    "10. file handleing/03. create a folder.md",
     "12. node mailer",
     "99 addons",
     "02. express with sql",
