@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. express js/08. Bcrypt.md",
+                "file": "99 addons/02. uiid in express js.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. Bcrypt"
+              "title": "02. uiid in express js"
             }
           }
         ]
@@ -185,13 +185,14 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
+    "99 addons/01. colors in cmd.md",
+    "01. express js/08. Bcrypt.md",
     "01. express js/09. jwt token.md",
     "01. express js/11. auth Example.md",
     "01. express js/10. Set Cookie.md",
     "01. express js/05 setup routes and get api.md",
     "01. express js/06. get post api.md",
     "01. express js/07. update and delete api.md",
-    "01. express js/08. Bcrypt.md",
     "01. express js/04. Controller and routes.md",
     "02. express with sql/01. install sql database in express js.md",
     "02. express with sql/02. insert value to table.md",
@@ -206,7 +207,6 @@
     "Screenshot 2026-03-18 at 11.46.16 AM.png",
     "01. express js/01 installation express.md",
     "01. express js/00. Starter.md",
-    "99 addons/01. colors in cmd.md",
     "99 addons/03. Secret Header.md",
     "Screenshot 2026-03-09 at 9.32.50 AM.png",
     "02. express with sql/03. read.md",
