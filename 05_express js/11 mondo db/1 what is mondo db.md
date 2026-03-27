@@ -30,9 +30,8 @@ Export to Sheets
 
 MongoDB uses **BSON** (Binary JSON). Here is an example of how a "User" might be stored:
 
-JSON
 
-```
+```JSON
 {
   "_id": "64a7b12e9f1b2c3d4e5f6g7h",
   "username": "GooseCoder",

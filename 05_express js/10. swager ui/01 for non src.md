@@ -9,7 +9,7 @@ import swaggerAutogen from 'swagger-autogen'
 import { formatSwaggerJson } from './swaggerjsonformater.js'
 const doc = {
     openapi: '3.0.0', // Force 3.0 only
-    info: { title: 'Nhitedu API', version: '1.0.0' },
+    info: { title: 'project name API', version: '1.0.0' },
     servers: [{ url: 'http://localhost:3000' }]
 }
 const outputFile = './swagger-output.json'

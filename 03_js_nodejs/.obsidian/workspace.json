@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/44. JSON.md",
-                "mode": "preview",
+                "file": "basic js/01. Printing in js.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "44. JSON"
+              "title": "01. Printing in js"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "bb8d1f97e16ccb0a",
   "lastOpenFiles": [
+    "basic js/44. JSON.md",
     "jsdom/01. window Alert.md",
     "basic js/33. Object in js.md",
     "basic js/35. spread operator in object js.md",
@@ -193,7 +194,6 @@
     "basic js/37 sort in js.md",
     "basic js/36. DeStructuring in js.md",
     "basic js/45. async await and fetch.md",
-    "basic js/44. JSON.md",
     "basic js/46. Nullish coalescing operator.md",
     "basic js/47. iife function.md",
     "basic js/43. error handling.md",
