@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic js/01. Printing in js.md",
-                "mode": "source",
+                "file": "basic js/04. typeCasting in js.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Printing in js"
+              "title": "04. typeCasting in js"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "window",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,6 +185,11 @@
   },
   "active": "bb8d1f97e16ccb0a",
   "lastOpenFiles": [
+    "basic js/03 Variable,rules of variables and let var const in js.md",
+    "basic js/02. data types in js.md",
+    "basic js/05 arthmetic operators in js.md",
+    "basic js/01. Printing in js.md",
+    "basic js/42. Asynchronous code.md",
     "basic js/44. JSON.md",
     "jsdom/01. window Alert.md",
     "basic js/33. Object in js.md",
@@ -197,7 +202,6 @@
     "basic js/46. Nullish coalescing operator.md",
     "basic js/47. iife function.md",
     "basic js/43. error handling.md",
-    "basic js/42. Asynchronous code.md",
     "basic js/41. module in js.md",
     "basic js/39. closure in js.md",
     "basic js/40. setTimeout in js.md",
@@ -207,10 +211,6 @@
     "jsdom/14. mouse Event in js.md",
     "jsdom/12. querySelector and querySelectorAll.md",
     "jsdom/10. make a dice roller game.md",
-    "jsdom/11. make a ramdom password generator.md",
-    "jsdom/00. load js in html.md",
-    "jsdom/13. Style Via js.md",
-    "jsdom/09. Q3 bar entry webpage.md",
     "basic js/Untitled",
     "jsdom",
     "basic js"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 mondo db/03. connection.md",
+                "file": "99 addons/02. uiid in express js.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. connection"
+              "title": "02. uiid in express js"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "fd12471813fed465",
   "lastOpenFiles": [
+    "11 mondo db/04. Models And CRUD.md",
+    "11 mondo db/03. connection.md",
     "11 mondo db/02 mongo db installation.md",
+    "11 mondo db/05. Find.md",
     "11 mondo db/1 what is mondo db.md",
     "10. swager ui/01 for non src.md",
     "01. express js/05 setup routes and get api.md",
@@ -194,8 +197,6 @@
     "01. express js/02 dotenv and server.js setup.md",
     "01. express js/01 installation express.md",
     "01. express js/00. Starter.md",
-    "11 mondo db/03. connection.md",
-    "11 mondo db/04. Models.md",
     "10. swager ui/00 for production scr folder.md",
     "99 addons/02. uiid in express js.md",
     "11 mondo db",
@@ -214,7 +215,6 @@
     "Screenshot 2026-03-18 at 11.46.16 AM.png",
     "99 addons/03. Secret Header.md",
     "Screenshot 2026-03-09 at 9.32.50 AM.png",
-    "02. express with sql/03. read.md",
     "03. EsBuild",
     "12. node mailer",
     "99 addons",
